@@ -27,7 +27,7 @@ linked in: | Roy Dybing  |
 
 ---
 
-### Copyright 2019 Roy Dybing  - all rights reserved.
+### Copyright 2021 Roy Dybing  - all rights reserved.
 
 MIT License full:
 
